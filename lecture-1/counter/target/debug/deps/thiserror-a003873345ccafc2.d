@@ -1,0 +1,9 @@
+/Users/thangarajmuruganantham/Workspace/anchor_new-collection/solana_start_program/solana_bootcamp/lecture-1/counter/target/debug/deps/thiserror-a003873345ccafc2.rmeta: /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/lib.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/aserror.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/display.rs
+
+/Users/thangarajmuruganantham/Workspace/anchor_new-collection/solana_start_program/solana_bootcamp/lecture-1/counter/target/debug/deps/libthiserror-a003873345ccafc2.rlib: /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/lib.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/aserror.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/display.rs
+
+/Users/thangarajmuruganantham/Workspace/anchor_new-collection/solana_start_program/solana_bootcamp/lecture-1/counter/target/debug/deps/thiserror-a003873345ccafc2.d: /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/lib.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/aserror.rs /Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/display.rs
+
+/Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/lib.rs:
+/Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/aserror.rs:
+/Users/thangarajmuruganantham/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.30/src/display.rs:
