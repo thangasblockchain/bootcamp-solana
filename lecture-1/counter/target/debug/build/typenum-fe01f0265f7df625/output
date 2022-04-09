@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/thangarajmuruganantham/Workspace/anchor_new-collection/solana_start_program/solana_bootcamp/lecture-1/counter/target/debug/build/typenum-fe01f0265f7df625/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/thangarajmuruganantham/Workspace/anchor_new-collection/solana_start_program/solana_bootcamp/lecture-1/counter/target/debug/build/typenum-fe01f0265f7df625/out/op.rs

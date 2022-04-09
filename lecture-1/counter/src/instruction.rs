@@ -1,3 +1,5 @@
+// this program is going to create an object to keep track of the counter / count
+
 use borsh::{BorshDeserialize, BorshSerialize};
 
 #[derive(BorshSerialize, BorshDeserialize, Debug, Clone)]
@@ -6,5 +8,6 @@ use borsh::{BorshDeserialize, BorshSerialize};
 pub enum CounterInstructionfromthanga {
     // increment part - enum 
     Increment, // unsigned byte
+    // adde below
     New
 }
